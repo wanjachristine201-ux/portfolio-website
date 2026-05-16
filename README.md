@@ -1,4 +1,4 @@
-# Christine Wanja - Portfolio Website
+# Christine Wanja - My Portfolio Website
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
