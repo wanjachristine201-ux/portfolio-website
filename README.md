@@ -2,6 +2,8 @@
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
+🌐 **Live Site:** https://wanjachristine201-ux.github.io/portfolio-website
+
 ## 🚀 Features
 
 - **Modern Dark Theme** - Professional dark UI with gradient backgrounds and glow effects
@@ -154,7 +156,7 @@ This project is open source and available for personal use.
 ## 👤 Author
 
 **Christine Wanja**
-- LinkedIn: https://www.linkedin.com/in/christine-wanja
+- LinkedIn: https:/www.linkedin.com/in/christine-wanja-598711385
 - GitHub: https://github.com/wanjachristine201-ux
 
 ## 🙏 Acknowledgments
